@@ -1,3 +1,4 @@
+Live demo: https://esszed.github.io/huddle-landing-page/index.html
 # Frontend Mentor - Huddle landing page with alternating feature blocks
 
 ![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)
